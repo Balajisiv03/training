@@ -1,2 +1,2 @@
 # training
-its demo repo
+its demo repo for training
